@@ -1,0 +1,65 @@
+table {
+  width: 60%;
+  height: 40%;
+  position: relative;
+  left:20%;
+  background-color:rgba(0, 0, 255, 0.178);
+  border: 1px solid black;
+
+
+}
+ td{
+  margin:2%;
+  border: 1px solid black;
+
+
+}
+header{
+  position: relative;
+  text-align: center;
+  color: black;
+  text-emphasis: blue;
+  
+}
+table th{
+  
+
+  
+}
+button{
+  border-radius: 8%;
+  border: 1px solid black;
+  padding: 25px;
+  margin: 60px;
+  background-color:red;
+ font-size: 30px;
+
+}
+button:hover{
+  
+
+  background-color:yellow;
+}
+
+@keyframes example {
+         from {background-color: red;}
+         to {background-color:lightgreen;}
+         }
+
+#abc {
+  width: 80%;
+  height: 200px;
+  background-color: rgba(128, 128, 128, 0.219);
+  left: 10%;
+  position: relative;
+}
+
+#circle {
+  border-radius: 100%;
+  background-color: rgba(255, 0, 0, 0.637);
+  width: 30px;
+  height:15%;
+  left:40%;
+  top: 15%;
+  position: relative;
+}
